@@ -1,0 +1,22 @@
+
+> svelte-app@1.0.0 dev /home/roro/Documents/Code/project_folders/svelte_projects/svelty
+> rollup -c -w
+
+[1m[32mLiveReload enabled[39m[22m
+
+> svelte-app@1.0.0 start /home/roro/Documents/Code/project_folders/svelte_projects/svelty
+> sirv public --single --dev --port 5555 "--dev"
+
+[H[2J
+  [32mYour application is ready~! 🚀
+
+[39m  [1m- Local:[22m      http://localhost:5555
+
+[7m LOGS [27m
+
+  [[35m18:38:05[39m] [32m200[39m[90m ─ [39m[37m[1m3.54ms[39m[22m[90m ─ [39m/
+  [[35m18:38:05[39m] [32m200[39m[90m ─ [39m[37m[1m0.25ms[39m[22m[90m ─ [39m/global.css
+  [[35m18:38:05[39m] [32m200[39m[90m ─ [39m[37m[1m1.34ms[39m[22m[90m ─ [39m/build/bundle.css
+  [[35m18:38:05[39m] [32m200[39m[90m ─ [39m[37m[1m1.75ms[39m[22m[90m ─ [39m/build/bundle.js
+  [[35m18:38:06[39m] [32m200[39m[90m ─ [39m[37m[1m0.81ms[39m[22m[90m ─ [39m/build/bundle.js.map
+  [[35m18:38:06[39m] [32m200[39m[90m ─ [39m[37m[1m0.54ms[39m[22m[90m ─ [39m/favicon.png
